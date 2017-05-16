@@ -4,7 +4,7 @@
 #
 Name     : golang-github-stretchr-testify
 Version  : c5d7a69bf8a2c9c374798160849c071093e41dd1
-Release  : 6
+Release  : 7
 URL      : https://github.com/stretchr/testify/archive/c5d7a69bf8a2c9c374798160849c071093e41dd1.tar.gz
 Source0  : https://github.com/stretchr/testify/archive/c5d7a69bf8a2c9c374798160849c071093e41dd1.tar.gz
 Summary  : No detailed summary available
